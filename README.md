@@ -4,6 +4,8 @@ Downloads a specified number of videos from Shutterstock using input search term
 
 ## To Use
 
+ChromeDriver is necessary.
+
 Will be prompted search term and number of files.
 
 Change vfile_path to path where videos will be stored.
